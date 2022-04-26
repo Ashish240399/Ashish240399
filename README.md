@@ -5,8 +5,8 @@
 
 - Observant and detail-oriented aspiring full-stack web developer with a specialization in MERN stack. Self-motivated and curious, with a keen interest in building user-centric products. Looking forward to work in a collaborative and creative work environment
 - Studying Full-Stack Web Development in Masai School, Bengaluru.
-- Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
-- Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
+- Doing different kind of projects based on current needs for web development
+- Besides web development I used to play cricket.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
