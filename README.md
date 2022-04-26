@@ -3,9 +3,8 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science and Mathematics at University of Massachusetts Amherst.
-- 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
+- 🤔 &nbsp; Observant and detail-oriented aspiring full-stack web developer with a specialization in MERN stack. Self-motivated and curious, with a keen interest in building user-centric products. Looking forward to work in a collaborative and creative work environment
+- 🎓 &nbsp; Studying Full-Stack Web Development in Masai School, Bengaluru.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
 - ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
 
