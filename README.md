@@ -34,7 +34,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/ashish-kumar-mohanty/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ashish%20Kumar%20Mohanty-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:ashishkumarmohanty7797@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ashishkumarmohanty7797@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="gmail:ashishkumarmohanty7797@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ashishkumarmohanty7797@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 ⭐️ From [Ashish240399](https://github.com/Ashish240399)
