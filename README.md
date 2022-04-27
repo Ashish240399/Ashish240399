@@ -1,4 +1,4 @@
-[![MasterHead](https://image.shutterstock.com/image-vector/web-development-banner-icon-business-260nw-1812243436.jpg)](https://rishavchanda.io)
+[![MasterHead](https://propulsive.in/assets/img/service-icon/web.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Ashish</h1>
 <h3 align="center">Passionate Full-Stack Web Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
