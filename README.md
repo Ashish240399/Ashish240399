@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/search?q=full-stack+web+developer+banner+image&tbm=isch&ved=2ahUKEwie9_bmgLT3AhVBKbcAHUgtAlEQ2-cCegQIABAA&oq=full-stack+web+developer+banner+image&gs_lcp=CgNpbWcQAzIHCCMQ7wMQJ1CvBVi5FWDmF2gAcAB4AIABywGIAcsQkgEGMC4xMS4xmAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=GxdpYt79N8HS3LUPyNqIiAU&bih=657&biw=1366#imgrc=mUJuZim3SbWWJM)]
+[![MasterHead](https://image.shutterstock.com/image-vector/web-development-banner-icon-business-260nw-1812243436.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Ashish</h1>
 <h3 align="center">Passionate Full-Stack Web Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
