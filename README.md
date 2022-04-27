@@ -1,15 +1,23 @@
+[![MasterHead](https://www.google.com/search?q=full-stack+web+developer+banner+image&tbm=isch&ved=2ahUKEwie9_bmgLT3AhVBKbcAHUgtAlEQ2-cCegQIABAA&oq=full-stack+web+developer+banner+image&gs_lcp=CgNpbWcQAzIHCCMQ7wMQJ1CvBVi5FWDmF2gAcAB4AIABywGIAcsQkgEGMC4xMS4xmAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=GxdpYt79N8HS3LUPyNqIiAU&bih=657&biw=1366#imgrc=mUJuZim3SbWWJM)]
 <h1 align="center">Hi 👋, I'm Ashish</h1>
-<h3 align="center">Observant and detail-oriented aspiring full-stack web developer with a specialization in MERN stack. Self-motivated and curious, with a keen interest in building user-centric products. Looking forward to work in a collaborative and creative work environment</h3>
+<h3 align="center">Passionate Full-Stack Web Developer</h3>
+<img align="right" alt="Coding" width="400" src"https://c.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashish240399&label=Profile%20views&color=0e75b6&style=flat" alt="ashish240399" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashish240399" alt="ashish240399" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently studying in **Masai School**
 
+- 🌱 I’m currently learning **React.js**
+
+- 👨‍💻 All of my projects are available at [https://portfolio-hje33f85f-ashishkumarmohanty7797-gmailcom.vercel.app/](https://portfolio-hje33f85f-ashishkumarmohanty7797-gmailcom.vercel.app/)
+
+- 💬 Ask me about **MERN**
+
 - 📫 How to reach me **ashishkumarmohanty7797@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1U45h7kLZo14CJy6tVkJ0z2k8NxkDxdjx/view?usp=sharing](https://drive.google.com/file/d/1U45h7kLZo14CJy6tVkJ0z2k8NxkDxdjx/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,4 +33,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashish240399&show_icons=true&locale=en" alt="ashish240399" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashish240399&" alt="ashish240399" /></p>
-
